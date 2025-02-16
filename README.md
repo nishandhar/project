@@ -1,2 +1,2 @@
-# project
+#python project
 plant_disease_detection
